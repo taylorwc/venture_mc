@@ -14,8 +14,40 @@ When there was a multiple range assigned to a bin, I picked a multiple right in 
 #### Seth Levine - by Fund Size
 | Multiple Bin | Distribution | Average Multiple |
 | ------------ | ------------ | ---------------- |
-| <1x          | 50%          | 0                |
-| 1x - 3x      | 23%          | 2                |
+| <1x          | 50%          | 0.0              |
+| 1x - 3x      | 23%          | 2.0              |
+| 3x - 5x      | 11%          | 4.0              |
+| 5x - 10x     | 8%           | 7.5              |
+| 10x+         | 8%           | 10.0             |
+
+#### Seth Levine - by Check Size
+| Multiple Bin | Distribution | Average Multiple |
+| ------------ | ------------ | ---------------- |
+| <1x          | 56%          | 0.0              |
+| 1x - 3x      | 24%          | 2.0              |
+| 3x - 5x      | 7%           | 4.0              |
+| 5x - 10x     | 6%           | 7.5              |
+| 10x+         | 7%           | 10.0             |
+
+#### Correlation Ventures Data
+| Multiple Bin | Distribution | Average Multiple |
+| ------------ | ------------ | ---------------- |
+| <1x          | 64.8%        | 0.0              |
+| 1x - 5x      | 25.3%        | 3.0              |
+| 5x - 10x     | 5.9%         | 7.5              |
+| 10x - 20x    | 2.5%         | 15.0             |
+| 20x - 50x    | 1.1%         | 35.0             |
+| 50x+         | 0.4%         | 50.0             |
+
+#### Dave McClure's Post
+| Multiple Bin | Distribution | Average Multiple |
+| ------------ | ------------ | ---------------- |
+| <1x          | 50%          | 0.0              |
+| 0.5x         | 25%          | 0.5              |
+| 3x           | 18%          | 3.0              |
+| 15x          | 5%           | 15.0             |
+| 50x          | 2%           | 50.0             |
+
 
 
 ### Results
